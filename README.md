@@ -1,1 +1,7 @@
-# Unit-Testing
+# Unit-Testing Homework 5
+Installation
+npm install
+Run unit tests
+npm run test
+Generate coverage report
+npm run coverage
